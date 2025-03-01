@@ -13,7 +13,7 @@ WhitzScott
 
 1. Install the package by running:  
    ```sh
-   npm i characterextractors
+   npm i characterextractorstool
    ```  
 2. Start the extension by running:  
    ```sh
