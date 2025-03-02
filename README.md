@@ -15,7 +15,7 @@ WhitzScott
    ```sh
    npm i characterextractorstool
    ```  
-2. Start the extension by running:  
+2. Start the package by running:  
    ```sh
    npm run dev
    ```  
